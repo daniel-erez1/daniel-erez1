@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **B.Sc. Computer Science and Statistics student with professional experience seeking a software engineering internship. Skilled in Java, Python, C, C++, and full-stack development. Strong computer science and data structures fundamentals and analytical abilities. Excellent team collaborator with a passion for developing innovative software solutions.**
 
-- 📫 How to reach me **Daniel.erez95@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
